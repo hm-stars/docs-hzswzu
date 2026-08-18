@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-1txx1q.ai-photo-stock.com/sitemap.xml
